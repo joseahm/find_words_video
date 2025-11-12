@@ -1,0 +1,60 @@
+📁 Find Words Video - Estructura de Archivos
+═══════════════════════════════════════════════════════════════
+
+🚀 ARCHIVOS DE INSTALACIÓN (Ejecutar primero)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🪟 instalar_windows.bat ......... Instalador para Windows
+  🐧 instalar_linux.sh ............ Instalador para Linux/Ubuntu
+  🍎 instalar_mac.sh .............. Instalador para macOS
+
+💡 Doble clic (Windows) o ejecuta en terminal (Linux/Mac)
+
+
+📖 ARCHIVOS DE DOCUMENTACIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⭐ LEEME_PRIMERO.txt ........... EMPIEZA AQUÍ
+  📚 README_SIMPLE.md ............ Guía para principiantes
+  📖 README.md ................... Guía técnica/programadores
+  🚀 GUIA_USO_RAPIDO.md .......... Modo AUTO y optimización
+
+
+🎬 ARCHIVOS PARA USAR EL PROGRAMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⭐ START.bat ................... [Windows] Script interactivo (FÁCIL)
+  ⭐ start.sh .................... [Linux/Mac] Script interactivo (FÁCIL)
+  
+  🔧 INICIAR.bat ................. [Windows] Solo abre entorno (Manual)
+  
+  🎙️  run_index.py ............... Procesar videos
+  🔍 search.py ................... Buscar palabras
+
+
+🛠️  ARCHIVOS ADICIONALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🖥️  detectar_hardware.sh ....... Detecta GPU/CPU
+  📄 requirements.txt ............ Lista de dependencias
+  
+
+📂 CARPETAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📁 venv/ ....................... Entorno virtual (se crea al instalar)
+  📁 ffmpeg/ ..................... ffmpeg portátil (Windows, se crea al instalar)
+
+
+📦 ARCHIVOS GENERADOS AL USAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  💾 index.db .................... Base de datos de palabras
+  🎵 audio_16k.wav ............... Audio temporal (se elimina automáticamente)
+
+
+═══════════════════════════════════════════════════════════════
+FLUJO DE USO:
+
+1. 📖 Lee: LEEME_PRIMERO.txt
+2. ⚡ Ejecuta el instalador de tu sistema operativo
+3. 🎬 Usa el script interactivo:
+   • Windows: START.bat (doble clic)
+   • Linux/Mac: ./start.sh
+4. 📚 Si tienes dudas, lee README_SIMPLE.md
+
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,40 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   🎥 BUSCADOR DE PALABRAS EN VIDEOS                              ║
+║                                                                   ║
+║   👉 ¿Primera vez usando este programa?                          ║
+║                                                                   ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║                                                                   ║
+║   🚀 INSTALACIÓN AUTOMÁTICA (¡UN SOLO PASO!)                     ║
+║                                                                   ║
+║   🪟 Windows:   Doble clic en → instalar_windows.bat            ║
+║   🐧 Linux:     Ejecuta → ./instalar_linux.sh                   ║
+║   🍎 Mac:       Ejecuta → ./instalar_mac.sh                     ║
+║                                                                   ║
+║   ⚠️  Solo di "sí" cuando te pregunte                           ║
+║   ⚠️  En Linux/Mac: escribe tu contraseña si te la pide         ║
+║                                                                   ║
+║   El script instalará TODO automáticamente:                      ║
+║   ✅ Python 3                                                    ║
+║   ✅ ffmpeg                                                      ║
+║   ✅ Todas las dependencias                                      ║
+║                                                                   ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║                                                                   ║
+║   📖 Después de instalar, lee: README_SIMPLE.md                  ║
+║   (Explica cómo usar el programa)                                ║
+║                                                                   ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║                                                                   ║
+║   📚 Otros archivos:                                             ║
+║                                                                   ║
+║   • README.md ................ Para programadores                ║
+║   • GUIA_USO_RAPIDO.md ....... Optimización automática          ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✨ Compatible con Windows 10+, Ubuntu/Linux, macOS 10.15+
+
+💡 ¿Problemas? Lee "SOLUCIÓN DE PROBLEMAS" en README_SIMPLE.md
+
